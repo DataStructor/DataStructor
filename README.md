@@ -22,5 +22,5 @@
 ---
 
 ### 🌐 Connections
-- 💬 Discord: `theconner.`
+- 💬 Discord: `datastructor`
 - 🐦 Twitter: [@DataStructor](https://x.com/datastructor)
