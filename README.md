@@ -20,5 +20,5 @@
 ---
 
 ### 🌐 Connections
-- 💬 Discord: `datastructor`
+- 💬 Discord: `meowdelreyy`
 - 🐦 Twitter: [@DataStructor](https://x.com/datastructor)
